@@ -1,2 +1,2 @@
 # Reversi
-The computer game "Reversi" created in a console on C++ and some WinApi functions.
+The console computer game "Reversi" created in VS on C++ and some WinApi functions.
